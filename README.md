@@ -15,10 +15,10 @@ The elaboration has become a very ugly website, which doesn't suit me at all, bu
 - A fully working navigation bar has been created. (2pt)
 - There is a fully working carousel with at least 8 images. (2pt)
 - A fully responsive grid has been set up for the resolutions: (3pt)
--- less than 576px 
--- greater than 576px but less than 768px (sm)
--- greater than 768px but less than 992px (md)
--- greater than 992px but less than 1200px (lg)
--- greater than 1200px(xl)	
+  - less than 576px 
+  - greater than 576px but less than 768px (sm)
+  - greater than 768px but less than 992px (md)
+  - greater than 992px but less than 1200px (lg)
+  - greater than 1200px(xl)	
 - The extras from the lessons are incorporated in the site (1pt)
 - The site is correctly put online with an ISP (1pt)
